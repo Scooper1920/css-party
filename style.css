@@ -1,3 +1,10 @@
+* {
+    box-sizing: border-box;
+    margin: 10px;
+    /* the above line of code "relaxes" things so they
+    are not all smooshed! */
+}
+
 body {
     display:flex;
     flex-direction: column;
